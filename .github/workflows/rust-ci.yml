@@ -1,4 +1,5 @@
-# Uncomment this line to actually run the action in your repo(s)
+# Replace this line with the commented one to actually run the action in your repo(s)
+on: public
 #on: [push, pull_request]
 
 name: CI
