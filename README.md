@@ -2,7 +2,7 @@
 # 🌻 opensource-template
 
 <!--- FIXME: Update crate, repo and CI workflow names here! Remove any that are not relevant --->
-[![Embark](https://img.shields.io/badge/embark-open%20source-blueviolet.svg)](http://embark.dev)
+[![Embark](https://img.shields.io/badge/embark-open%20source-blueviolet.svg)](https://embark.dev)
 [![Embark](https://img.shields.io/badge/discord-ark-%237289da.svg?logo=discord)](https://discord.gg/dAuKfZS)
 [![Crates.io](https://img.shields.io/crates/v/rust-gpu.svg)](https://crates.io/crates/rust-gpu)
 [![Docs](https://docs.rs/rust-gpu/badge.svg)](https://docs.rs/rust-gpu)
