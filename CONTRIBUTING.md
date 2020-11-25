@@ -62,7 +62,7 @@ We follow the [AirBnB JavaScript style guide](https://github.com/airbnb/javascri
 
 ## Licensing
 
-Unless otherwise specified, all Embark open source projects shall comply with the Rust standard licensing model (MIT + Apache 2.0) and are thereby licensed under a dual license.
+Unless otherwise specified, all Embark open source projects shall comply with the Rust standard licensing model (MIT + Apache 2.0) and are thereby licensed under a dual license, allowing licensees to choose either MIT OR Apache-2.0 at their option.
 
 ## Contributor Terms
 
