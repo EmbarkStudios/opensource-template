@@ -30,6 +30,7 @@
 1. **Badges:** In the badges section above, change the repo name in each URL. If you are creating something other than a Rust crate, remove the crates.io and docs badges (and feel free to add more appropriate ones for your language).
 1. **CI:** In `./github/workflows/` rename `rust-ci.yml` (or the appropriate config for your language) to `ci.yml`. And go over it and adapt it to work for your project
     - If you aren't using or customized the CI workflow, also see the TODO in `.mergify.yml`
+    - If you want to use the automatic rustdoc publishing to github pages for git main, see `rustdoc-pages.yml`
 1. **Issue & PR Templates**: Review the files in `.github/ISSUE_TEMPLATE` and `.github/pull_request_template`. Adapt them
 to suit your needs, removing or re-wording any sections that don't make sense for your use case.
 1. **CHANGELOG.md:** Change the `$REPO_NAME` in the links at the bottom to the name of the repository, and replace the example template lines with the actual notes for the repository/crate.
