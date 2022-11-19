@@ -37,7 +37,7 @@ to suit your needs, removing or re-wording any sections that don't make sense fo
 1. **release.toml:** in `./release.toml` change the `$REPO_NAME` to the name of the repository
 1. **Cleanup:** Remove this section of the README and any unused files (such as configs for other languages) from the repo.
 
-## Contribution
+## Contributing
 
 [![Contributor Covenant](https://img.shields.io/badge/contributor%20covenant-v1.4-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
